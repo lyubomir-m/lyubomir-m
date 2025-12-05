@@ -3,3 +3,16 @@ Backend engineer with ~11 years at Walmart Global Tech (Principal Engineer since
 
 I am looking for a fully remote Senior, Staff, Principal, or similar Software Engineering role at companies that have an office, branch, employer of record in Bulgaria, or are willing to get an employer of record in Bulgaria, because this is strictly required by banks for home mortgage loans to individuals. My target base gross annual salary is €195,000-€235,000 and I do not expect equity or an annual bonus in addition to it.
 
+<hr>
+
+You can find below parts one and two of a video presentation of my Amazon Kindle Store clone, which I created as a personal full-stack project.
+
+<p align="center">
+  <a href="https://youtu.be/IuM2iNIxQKQ">
+    <img src="https://img.youtube.com/vi/IuM2iNIxQKQ/maxresdefault.jpg" width="400" />
+  </a>
+  <a href="https://youtu.be/onnj3m1jVr0">
+    <img src="https://img.youtube.com/vi/onnj3m1jVr0/maxresdefault.jpg" width="400" />
+  </a>
+</p>
+
