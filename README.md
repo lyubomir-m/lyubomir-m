@@ -1,6 +1,6 @@
 Backend engineer with ~11 years at Walmart Global Tech (Principal Engineer since 2022). I design and scale event-driven inventory and reservations systems. Led an org-wide idempotency + transactional outbox standard (92% adoption), modernized the ledger to event-sourced projections with zero-downtime cutover, and lifted peak throughput to 120k+ RPS with p99 under 100 ms while cutting infrastructure cost by ~28%. Stack: Java, Spring, SQL, Kafka, REST/gRPC, Redis, Elasticsearch, Kubernetes, AWS, Terraform, Prometheus/Grafana.
 
-[Lyubomir-M-CV-PDF.zip](https://github.com/lyubomir-m/lyubomir-m/blob/4429d11224e5102549dbd654eab7a49abbe1ef1c/Lyubomir-M-CV-PDF.zip) - this is a link to my CV. You have to download the zip-file and open it with the password cv-2025 .
+[Lyubomir-M-CV-PDF.zip](https://github.com/lyubomir-m/lyubomir-m/blob/main/Lyubomir-M-CV-PDF.zip) - this is a link to my CV. You have to download the zip-file and open it with the password cv-2025 .
 <hr>
 
 I am looking for a fully remote Senior, Staff, Principal, or similar Software Engineering role at companies that have an office, branch, employer of record in Bulgaria, or are willing to get an employer of record in Bulgaria, because this is strictly required by banks for home mortgage loans to individuals. My target base gross annual salary is €195,000-€235,000 and I do not expect equity or an annual bonus in addition to it.
