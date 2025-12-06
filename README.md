@@ -20,7 +20,7 @@ You can find below parts one and two of a video presentation of my Amazon Kindle
 
 <hr>
 
-I’m based in **Sofia, Bulgaria** (**EET/EEST – UTC+2 / UTC+3**).  
+I am based in **Sofia, Bulgaria** (**EET/EEST – UTC+2 / UTC+3**).  
 Below are my typical working windows and how they map to common European time zones  
 (assuming a local office day of **08:00–17:00** in each region).
 
