@@ -18,3 +18,13 @@ You can find below parts one and two of a video presentation of my Amazon Kindle
   </a>
 </p>
 
+<hr>
+
+I’m based in **Sofia, Bulgaria** (**EET/EEST – UTC+2 / UTC+3**).  
+Below are my typical working windows and how they map to common European time zones  
+(assuming a local office day of **08:00–17:00** in each region).
+
+| My working hours (Sofia) | UK & Ireland (UTC, GMT/BST) – local time & overlap        | Central Europe (CET/CEST, UTC+1, e.g. ES, FR, DE, IT, PL) – local time & overlap | Eastern Europe (EET/EEST, UTC+2, e.g. RO, GR, FI, Baltics) – local time & overlap |
+|--------------------------|------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **08:00–17:00**          | 06:00–15:00 local, **7h overlap** (08:00–15:00)           | 07:00–16:00 local, **8h overlap** (08:00–16:00)                                  | 08:00–17:00 local, **9h overlap** (full 08:00–17:00)                               |
+| **09:00–18:00**          | 07:00–16:00 local, **8h overlap** (08:00–16:00)           | 08:00–17:00 local, **9h overlap** (full 08:00–17:00)                             | 09:00–18:00 local, **8h overlap** (09:00–17:00)                                    |
